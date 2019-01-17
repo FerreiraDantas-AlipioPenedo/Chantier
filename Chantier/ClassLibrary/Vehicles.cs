@@ -19,9 +19,12 @@ namespace ClassLibrary
             this.TankCapacity = tankCapacity;
         }
 
-        public Size()
+        public int size
         {
-
+            get
+            {
+                return this.Size;
+            }
         }
     }
 }
