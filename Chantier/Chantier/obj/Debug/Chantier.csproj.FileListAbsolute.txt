@@ -1,0 +1,6 @@
+C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\Chantier\obj\Debug\Chantier.csprojAssemblyReference.cache
+C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\Chantier\obj\Debug\Chantier.exe.config
+C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\Chantier\obj\Debug\Chantier.Form1.resources
+C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\Chantier\obj\Debug\Chantier.Properties.Resources.resources
+C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\Chantier\obj\Debug\Chantier.csproj.GenerateResource.cache
+C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\Chantier\obj\Debug\Chantier.csproj.CoreCompileInputs.cache

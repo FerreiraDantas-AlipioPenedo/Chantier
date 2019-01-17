@@ -1,0 +1,2 @@
+C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\UnitTestProject1\obj\Debug\UnitTestChantier.csprojAssemblyReference.cache
+C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\UnitTestProject1\obj\Debug\UnitTestChantier.csproj.CoreCompileInputs.cache
