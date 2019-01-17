@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ClassLibrary
 {
-    class Vehicles
+    public class Vehicles
     {
         private int Size;
         private int NbWheels;
