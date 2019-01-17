@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using ClassLibrary;
 
 namespace UnitTestChantier
 {
@@ -9,6 +10,7 @@ namespace UnitTestChantier
         [TestMethod]
         public void TestMethod1()
         {
+            
         }
     }
 }

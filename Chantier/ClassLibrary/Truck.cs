@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ClassLibrary
 {
-    class Truck : Vehicles
+    public class Truck : Vehicles
     {
         private bool Lift;
 

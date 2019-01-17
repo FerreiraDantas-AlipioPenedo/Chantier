@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ClassLibrary
 {
-    class Crane : Vehicles
+    public class Crane : Vehicles
     {
         private int Height;
 

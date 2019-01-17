@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ClassLibrary
 {
-    class Vehicles
+    public class Vehicles
     {
         private int Size;
         private int NbWheels;
@@ -19,9 +19,12 @@ namespace ClassLibrary
             this.TankCapacity = tankCapacity;
         }
 
-        public Size()
+        public int size
         {
-
+            get
+            {
+                return this.Size;
+            }
         }
     }
 }

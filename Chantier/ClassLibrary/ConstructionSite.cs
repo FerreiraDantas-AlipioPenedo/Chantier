@@ -4,13 +4,13 @@ using System.Text;
 
 namespace ClassLibrary
 {
-    class ConstructionSite
+    public class ConstructionSite
     {
         private string Address;
         private string City;
         private int Size;
-        private List<Vehicles> ListOfVehicles = new List<Vehicles>;
-        private List<Workers> ListOfWorkers = new List<Workers>;
+        private List<Vehicles> ListOfVehicles = new List<Vehicles>();
+        private List<Workers> ListOfWorkers = new List<Workers>();
 
         public ConstructionSite(string address, string city, int size)
         {
