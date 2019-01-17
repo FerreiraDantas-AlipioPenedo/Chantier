@@ -7,7 +7,7 @@ namespace UnitTestChantier
     public class UnitTestChantier
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestMethodAddVehicle()
         {
         }
     }
