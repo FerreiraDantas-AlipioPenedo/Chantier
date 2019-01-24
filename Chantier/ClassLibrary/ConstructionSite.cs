@@ -19,7 +19,7 @@ namespace ClassLibrary
             this.Size = size;
         }
 
-        public void AddVehicle(Vehicles vehicle)
+        public void AddVehicle(Vehicles vehicle, List<Vehicles> vehicles)
         {
 
         }

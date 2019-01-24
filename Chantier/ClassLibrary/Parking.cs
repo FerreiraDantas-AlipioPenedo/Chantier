@@ -16,11 +16,6 @@ namespace ClassLibrary
             this.NbVehiclesParked = nbVehiclesParked;
         }
 
-        public void ParkingLot(int places)
-        {
-
-        }
-
         public void Park(Vehicles vehicle)
         {
             VehiclesParked.Add(vehicle);
