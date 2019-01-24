@@ -25,6 +25,11 @@ namespace Chantier
             this.Age = age;
             this.Role = role.ToString();
         }
+
+        public string WorkerDescription()
+        {
+            return Name + " " + Surname + ", " + Age.ToString();
+        }
         
 
     }

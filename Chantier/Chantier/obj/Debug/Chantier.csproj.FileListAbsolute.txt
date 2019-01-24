@@ -40,3 +40,5 @@ C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\obj\Debug\Cha
 C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\obj\Debug\Chantier.csproj.CopyComplete
 C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\obj\Debug\Chantier.exe
 C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\obj\Debug\Chantier.pdb
+C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\obj\Debug\Chantier.Form1.resources
+C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\obj\Debug\Chantier.Form2.resources
