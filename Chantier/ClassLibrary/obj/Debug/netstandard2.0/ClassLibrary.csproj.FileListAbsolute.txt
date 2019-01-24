@@ -1,9 +1,0 @@
-C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
-C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
-C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
-C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
-C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
-C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
-C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
-C:\Users\Joao-Paulo.ALIPIO-PE\Documents\Chantier\Chantier\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
