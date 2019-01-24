@@ -23,8 +23,6 @@ C:\Users\Filipe.FERREIRA-DANT\source\repos\Chantier\Chantier\obj\Debug\Chantier.
 C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
-C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
 C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\bin\Debug\Chantier.exe.config
 C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\Chantier\bin\Debug\Chantier.exe

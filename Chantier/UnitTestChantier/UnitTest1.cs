@@ -161,5 +161,69 @@ namespace Chantier
 
             Assert.AreEqual(expectedWorkersInSite, WorkersInSite);
         }
+
+        [TestMethod]
+        //this test method adds workers and vehicles in a construction site
+        public void TestMethodAddsWorkersAndVehiclesInACS()
+        {
+            int expectedWorkersInSite = 3;
+            int expectedVehiclesInSite = 3;
+
+            ConstructionSite cs = new ConstructionSite("Rue de Moulins 40", "Yverdon-les-Bains", 5);
+
+            Workers Worker = new Workers("Juan", "D'el Muro", 20, Workers.Roles.ChefDeChantier);
+            Workers Worker1 = new Workers("Unbertino", "D'el Muro", 30, Workers.Roles.Machiniste);
+            Workers Worker2 = new Workers("DeuxBertina", "D'el Muro", 32, Workers.Roles.OuvrierQualifié);
+
+            Truck t = new Truck(2, 6, 200, 100, false);
+            Crane c = new Crane(1, 4, 45, 0, 1500);
+            Crane c1 = new Crane(2, 4, 60, 0, 2500);
+
+            cs.AddWorker(Worker);
+            cs.AddWorker(Worker1);
+            cs.AddWorker(Worker2);
+
+            cs.AddVehicle(t);
+            cs.AddVehicle(c);
+            cs.AddVehicle(c1);
+
+            int WorkersInSite = cs.workersInSite;
+            int VehiclesInSite = cs.vehiclesInSite;
+
+            Assert.AreEqual(expectedWorkersInSite, WorkersInSite);
+            Assert.AreEqual(expectedVehiclesInSite, VehiclesInSite);
+        }
+
+        [TestMethod]
+        //this test method adds workers and more vehicles than the construction site can take
+        public void TestMethodAddsWorkersAndBiggerVehiclesThanTheCSCanTake()
+        {
+            int expectedWorkersInSite = 3;
+            int expectedVehiclesInSite = 2;
+
+            ConstructionSite cs = new ConstructionSite("Rue de Moulins 40", "Yverdon-les-Bains", 5);
+
+            Workers Worker = new Workers("Juan", "D'el Muro", 20, Workers.Roles.ChefDeChantier);
+            Workers Worker1 = new Workers("Unbertino", "D'el Muro", 30, Workers.Roles.Machiniste);
+            Workers Worker2 = new Workers("DeuxBertina", "D'el Muro", 32, Workers.Roles.OuvrierQualifié);
+
+            Truck t = new Truck(3, 6, 200, 100, false);
+            Crane c = new Crane(1, 4, 45, 0, 1500);
+            Crane c1 = new Crane(2, 4, 60, 0, 2500);
+
+            cs.AddWorker(Worker);
+            cs.AddWorker(Worker1);
+            cs.AddWorker(Worker2);
+
+            cs.AddVehicle(t);
+            cs.AddVehicle(c);
+            cs.AddVehicle(c1);
+
+            int WorkersInSite = cs.workersInSite;
+            int VehiclesInSite = cs.vehiclesInSite;
+
+            Assert.AreEqual(expectedWorkersInSite, WorkersInSite);
+            Assert.AreEqual(expectedVehiclesInSite, VehiclesInSite);
+        }
     }
 }
