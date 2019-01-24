@@ -110,7 +110,7 @@ namespace Chantier
         }
 
         [TestMethod]
-        //this test method add a vehicle to much big in a construction site (ce test ne devrait pas résussir à ce stade de l'application)
+        //this test method add a vehicle to much big in a construction site 
         public void TestMethodAddABiggerVehicleInACS()
         {
             int expectedVehicleInCS = 0;

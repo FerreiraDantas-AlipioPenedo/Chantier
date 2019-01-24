@@ -21,7 +21,10 @@ namespace Chantier
 
         public void AddVehicle(Vehicles vehicle)
         {
-            ListOfVehicles.Add(vehicle);
+            if(vehicle.size <= this.Size)
+            {
+                ListOfVehicles.Add(vehicle);
+            }            
         }
 
         public void AddWorker(Workers worker)
