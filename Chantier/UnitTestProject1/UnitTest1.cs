@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using ClassLibrary;
 
-namespace UnitTestChantier
+namespace Chantier
 {
     [TestClass]
     public class UnitTestChantier

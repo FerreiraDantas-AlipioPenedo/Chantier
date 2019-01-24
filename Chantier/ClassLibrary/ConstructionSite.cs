@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ClassLibrary
+namespace Chantier
 {
     public class ConstructionSite
     {
@@ -19,14 +19,14 @@ namespace ClassLibrary
             this.Size = size;
         }
 
-        public void AddVehicle(Vehicles vehicle, List<Vehicles> vehicles)
+        public void AddVehicle(Vehicles vehicle)
         {
-
+            ListOfVehicles.Add(vehicle);
         }
 
         public void AddWorker(Workers worker)
         {
-
+            ListOfWorkers.Add(worker);
         }
 
         public List<Vehicles> vehiclesInSite
