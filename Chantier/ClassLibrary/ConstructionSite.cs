@@ -37,7 +37,7 @@ namespace ClassLibrary
             }
         }
 
-        public List<Workers> WorkersInSite
+        public List<Workers> workersInSite
         {
             get
             {

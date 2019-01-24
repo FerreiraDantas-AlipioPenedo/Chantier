@@ -14,6 +14,8 @@ namespace UnitTestChantier
         {
             List<Vehicles> vehicles = new List<Vehicles>();
             Vehicles v = new Vehicles(2, 4, 250, 250);
+
+            Truck t = new Truck(2, 6, 500, 1000, true);
         }
     }
 }

@@ -8,7 +8,7 @@ namespace ClassLibrary
     {
         private bool Lift;
 
-        public Truck(bool lift)
+        public Truck(int size, int nbWheels, int power, int tankCapacity, bool lift) : base(size, nbWheels, power, tankCapacity)
         {
             this.Lift = lift;
         }

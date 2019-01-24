@@ -8,7 +8,7 @@ namespace ClassLibrary
     {
         private int Height;
 
-        public Crane(int height)
+        public Crane(int size, int nbWheels, int power, int tankCapacity, int height) : base(size, nbWheels, power, tankCapacity)
         {
             this.Height = height;
         }
