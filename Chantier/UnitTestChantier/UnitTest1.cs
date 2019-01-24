@@ -207,9 +207,9 @@ namespace Chantier
             Workers Worker1 = new Workers("Unbertino", "D'el Muro", 30, Workers.Roles.Machiniste);
             Workers Worker2 = new Workers("DeuxBertina", "D'el Muro", 32, Workers.Roles.OuvrierQualifié);
 
-            Truck t = new Truck(3, 6, 200, 100, false);
-            Crane c = new Crane(1, 4, 45, 0, 1500);
-            Crane c1 = new Crane(2, 4, 60, 0, 2500);
+            Truck t = new Truck(2, 6, 200, 100, false);
+            Crane c = new Crane(2, 4, 45, 0, 1500);
+            Crane c1 = new Crane(3, 4, 60, 0, 2500);
 
             cs.AddWorker(Worker);
             cs.AddWorker(Worker1);
