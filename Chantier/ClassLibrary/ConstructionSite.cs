@@ -29,11 +29,11 @@ namespace Chantier
             ListOfWorkers.Add(worker);
         }
 
-        public List<Vehicles> vehiclesInSite
+        public int vehiclesInSite
         {
             get
             {
-                return ListOfVehicles;
+                return ListOfVehicles.Count;
             }
         }
 

@@ -6,3 +6,11 @@ C:\Users\Filipe.FERREIRA-DANT\source\repos\Chantier\ClassLibrary\obj\Debug\netst
 C:\Users\Filipe.FERREIRA-DANT\source\repos\Chantier\ClassLibrary\obj\Debug\netstandard1.4\ClassLibrary.AssemblyInfo.cs
 C:\Users\Filipe.FERREIRA-DANT\source\repos\Chantier\ClassLibrary\obj\Debug\netstandard1.4\ClassLibrary.dll
 C:\Users\Filipe.FERREIRA-DANT\source\repos\Chantier\ClassLibrary\obj\Debug\netstandard1.4\ClassLibrary.pdb
+C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\ClassLibrary\bin\Debug\netstandard1.4\ClassLibrary.deps.json
+C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\ClassLibrary\bin\Debug\netstandard1.4\ClassLibrary.dll
+C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\ClassLibrary\bin\Debug\netstandard1.4\ClassLibrary.pdb
+C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\ClassLibrary\obj\Debug\netstandard1.4\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\ClassLibrary\obj\Debug\netstandard1.4\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\ClassLibrary\obj\Debug\netstandard1.4\ClassLibrary.AssemblyInfo.cs
+C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\ClassLibrary\obj\Debug\netstandard1.4\ClassLibrary.dll
+C:\Users\Filipe.FERREIRA-DANT\Documents\Chantier\Chantier\ClassLibrary\obj\Debug\netstandard1.4\ClassLibrary.pdb

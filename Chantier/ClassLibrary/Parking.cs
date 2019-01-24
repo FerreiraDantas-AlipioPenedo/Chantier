@@ -7,18 +7,18 @@ namespace Chantier
     public class Parking
     {
         private int Capacity;
-        private int NbVehiclesParked;
+        private int NbVehiclesParked = 0;
         List<Vehicles> VehiclesParked = new List<Vehicles>();
 
-        public Parking(int capacity, int nbVehiclesParked)
+        public Parking(int capacity)
         {
             this.Capacity = capacity;
-            this.NbVehiclesParked = nbVehiclesParked;
         }
 
         public void Park(Vehicles vehicle)
         {
             VehiclesParked.Add(vehicle);
+            NbVehiclesParked++;
         }
 
         public int AvailablePlaces

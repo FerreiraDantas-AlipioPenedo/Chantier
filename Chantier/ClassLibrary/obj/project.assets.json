@@ -3770,11 +3770,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Filipe.FERREIRA-DANT\\source\\repos\\Chantier\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Filipe.FERREIRA-DANT\\Documents\\Chantier\\Chantier\\ClassLibrary\\ClassLibrary.csproj",
       "projectName": "ClassLibrary",
-      "projectPath": "C:\\Users\\Filipe.FERREIRA-DANT\\source\\repos\\Chantier\\ClassLibrary\\ClassLibrary.csproj",
+      "projectPath": "C:\\Users\\Filipe.FERREIRA-DANT\\Documents\\Chantier\\Chantier\\ClassLibrary\\ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\Filipe.FERREIRA-DANT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Filipe.FERREIRA-DANT\\source\\repos\\Chantier\\ClassLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Filipe.FERREIRA-DANT\\Documents\\Chantier\\Chantier\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Filipe.FERREIRA-DANT\\AppData\\Roaming\\NuGet\\NuGet.Config",
