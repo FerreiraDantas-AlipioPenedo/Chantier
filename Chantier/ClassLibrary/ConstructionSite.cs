@@ -40,11 +40,11 @@ namespace Chantier
             }
         }
 
-        public List<Workers> workersInSite
+        public int workersInSite
         {
             get
             {
-                return ListOfWorkers;
+                return ListOfWorkers.Count;
             }
         }
 

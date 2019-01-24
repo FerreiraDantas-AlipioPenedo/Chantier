@@ -124,5 +124,42 @@ namespace Chantier
 
             Assert.AreEqual(expectedVehicleInCS, VehiclesInSite);
         }
+
+        [TestMethod]
+        //this test method adds a worker in a construction site
+        public void TestMethodAddAWorkerInACS()
+        {
+            int expectedWorkers = 1;
+
+            ConstructionSite cs = new ConstructionSite("Rue de la gare 2", "Ste-Croix", 2);
+            Workers worker = new Workers("DeuxBertina", "D'el Muro", 32, Workers.Roles.OuvrierQualifié);
+
+            cs.AddWorker(worker);
+
+            int WorkersInSite = cs.workersInSite;
+
+            Assert.AreEqual(expectedWorkers, WorkersInSite);
+        }
+
+        [TestMethod]
+        //this test method add 3 workers in a construction site
+        public void TestMethodAdds3Workers()
+        {
+            int expectedWorkersInSite = 3;
+
+            ConstructionSite cs = new ConstructionSite("Rue de la gare 2", "Ste-Croix", 2);
+
+            Workers Worker = new Workers("Juan", "D'el Muro", 20, Workers.Roles.ChefDeChantier);
+            Workers Worker1 = new Workers("Unbertino", "D'el Muro", 30, Workers.Roles.Machiniste);
+            Workers Worker2 = new Workers("DeuxBertina", "D'el Muro", 32, Workers.Roles.OuvrierQualifié);
+
+            cs.AddWorker(Worker);
+            cs.AddWorker(Worker1);
+            cs.AddWorker(Worker2);
+
+            int WorkersInSite = cs.workersInSite;
+
+            Assert.AreEqual(expectedWorkersInSite, WorkersInSite);
+        }
     }
 }
